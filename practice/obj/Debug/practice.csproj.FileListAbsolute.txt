@@ -1,7 +1,0 @@
-C:\Users\buras\source\repos\practice\practice\bin\Debug\practice.exe.config
-C:\Users\buras\source\repos\practice\practice\bin\Debug\practice.exe
-C:\Users\buras\source\repos\practice\practice\bin\Debug\practice.pdb
-C:\Users\buras\source\repos\practice\practice\obj\Debug\practice.csprojAssemblyReference.cache
-C:\Users\buras\source\repos\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
-C:\Users\buras\source\repos\practice\practice\obj\Debug\practice.exe
-C:\Users\buras\source\repos\practice\practice\obj\Debug\practice.pdb
