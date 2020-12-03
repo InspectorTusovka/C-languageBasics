@@ -86,11 +86,6 @@ namespace Lesson_2
                 {
                     checkResult = false;
                 }
-                /*else if (login == userLogin && password == userPassword)
-                {
-                    checkResult = true;
-                    break;
-                }*/
                 else { checkResult = true; break; }
 
                 tryCounter++;
@@ -141,19 +136,19 @@ namespace Lesson_2
             string advice;
             double tolerance = arr[0];
 
-            if (arr[2] < 12 || arr[2] >= 12 && arr[2] <= 19)
+            if (arr[2] < 12 || arr[2] >= 12 && arr[2] <= 19)//Если индекс меньше нормы
             {
-                while (arr[2] <= 19)
+                while (arr[2] <= 19)//то приводим его в норму с помощью цикла, выполняемого до достижения минимально допустимой нормы
                 {
-                    arr[0]++;
-                    arr[2] = BMI_function(arr[1], arr[0], arr[2]);
+                    arr[0]++; 
+                    arr[2] = BMI_function(arr[1], arr[0], arr[2]); //Вызваем функцию подсчета индека с измененным параметром массы
                 }
-                advice = "Рекомендуем набрать вес, минимум на " + (arr[0] - tolerance) + " кг";
+                advice = "Рекомендуем набрать вес, минимум на " + (arr[0] - tolerance) + " кг"; //показываем пользователю, сколько кг нужно набрать
             }
-            else if (arr[2] > 19 && arr[2] <= 25) { advice = "Ваш вес в норме"; }
-            else if (arr[2] > 25 && arr[2] <= 29)
+            else if (arr[2] > 19 && arr[2] <= 25) { advice = "Ваш вес в норме"; } //Если индекс в норме
+            else if (arr[2] > 25 && arr[2] <= 29) //Если немного превышен индекс
             {
-                while (arr[2] > 25)
+                while (arr[2] > 25) //Аналогия с первым while: здесь работаем на "сброс" кг
                 {
                     arr[0]--;
                     arr[2] = BMI_function(arr[1], arr[0], arr[2]);
@@ -189,7 +184,7 @@ namespace Lesson_2
                 string numToString = Convert.ToString(number);
                 foreach(char numeral in numToString)
                 {
-                    numeralSummary += (numeral - '0');
+                    numeralSummary += (numeral - '0'); //т.к. при выборке char и так будет числом, избавляемся от его символьной части
                 }
                 if(number % numeralSummary == 0) count++;
             }
@@ -211,7 +206,7 @@ namespace Lesson_2
                 summary += lowBorder;
                 Console.WriteLine("Текущее число: {0}, сумма выведенных чисел = {1}", lowBorder, summary);
                 lowBorder += 1;
-                writeAndSumm(lowBorder, highBorder, summary);
+                writeAndSumm(lowBorder, highBorder, summary); //рекурсия с новыми параметрами суммы и нижней границы
             
         }
         #endregion
