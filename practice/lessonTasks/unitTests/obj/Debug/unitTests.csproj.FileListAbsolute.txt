@@ -1,0 +1,17 @@
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\unitTests.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\unitTests.pdb
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\lessonTasks.exe
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\lessonTasks.pdb
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\lessonTasks.exe.config
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\buras\source\repos\lessonTasks\unitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\buras\source\repos\lessonTasks\unitTests\obj\Debug\unitTests.csprojAssemblyReference.cache
+C:\Users\buras\source\repos\lessonTasks\unitTests\obj\Debug\unitTests.csproj.CoreCompileInputs.cache
+C:\Users\buras\source\repos\lessonTasks\unitTests\obj\Debug\unitTests.csproj.CopyComplete
+C:\Users\buras\source\repos\lessonTasks\unitTests\obj\Debug\unitTests.dll
+C:\Users\buras\source\repos\lessonTasks\unitTests\obj\Debug\unitTests.pdb
