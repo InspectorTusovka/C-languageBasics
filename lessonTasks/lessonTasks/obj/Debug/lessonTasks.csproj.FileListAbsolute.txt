@@ -1,0 +1,7 @@
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\bin\Debug\lessonTasks.exe.config
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\bin\Debug\lessonTasks.exe
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\bin\Debug\lessonTasks.pdb
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\obj\Debug\lessonTasks.csprojAssemblyReference.cache
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\obj\Debug\lessonTasks.csproj.CoreCompileInputs.cache
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\obj\Debug\lessonTasks.exe
+C:\Users\buras\source\repos\lessonTasks\lessonTasks\obj\Debug\lessonTasks.pdb
